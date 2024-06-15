@@ -1,0 +1,21 @@
+{
+  "name": "nash-dark-theme",
+  "displayName": "Nash Dark Theme",
+  "description": "Dark Theme for Visual Studio Code",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nash Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nash-color-theme.json"
+      }
+    ]
+  }
+}
