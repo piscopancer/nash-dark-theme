@@ -17,5 +17,15 @@
         "path": "./themes/nash-color-theme.json"
       }
     ]
-  }
+  },
+  "repository": {
+    "url": "https://github.com/piscopancer/nash-dark-theme"
+  },
+  "publisher": "piscopancer",
+  "author": {
+    "name": "piscopancer",
+    "url": "https://github.com/piscopancer"
+  },
+  "icon": "./assets/icon.png",
+  "license": "MIT"
 }
