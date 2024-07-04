@@ -76,6 +76,8 @@
     "editorGroup.dropBackground": "#22272B80",
     "editorGroupHeader.noTabsBackground": "#1B1F23",
     "editorGroupHeader.tabsBackground": "#1B1F23",
+    "editorGutter.addedBackground": "#8ca66d",
+    "editorGutter.modifiedBackground": "#7ea7c1",
     "editorGutter.background": "#1B1F23",
     "editorHoverWidget.background": "#1B1F23",
     "editorHoverWidget.border": "#22272B",
