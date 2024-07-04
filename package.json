@@ -3,6 +3,10 @@
   "displayName": "Nash Dark Theme",
   "description": "Dark Theme for Visual Studio Code",
   "version": "0.0.1",
+  "scripts": {
+    "build": "vsce package",
+    "install": "code --install-extension nash-dark-theme-0.0.1.vsix"
+  },
   "engines": {
     "vscode": "^1.90.0"
   },
