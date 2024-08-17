@@ -2,6 +2,7 @@
   "name": "Nash Dark Theme",
   "type": "dark",
   "colors": {
+    "foreground": "#ACAEB0",
     "activityBar.activeBorder": "#D2D4D600",
     "activityBar.background": "#1B1F23",
     "activityBar.dropBorder": "#1B1F23",
